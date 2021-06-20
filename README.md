@@ -19,7 +19,6 @@ Phase 2
 3)	Test data from phase 1 with AI
 4)	Train AI to make simulated transactions.
 5)	Train
-6)	Train
 Phase 3
 1)	Connect Program to wallet
 2)	Make transactions from wallet.
