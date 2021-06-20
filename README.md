@@ -24,3 +24,8 @@ This program would be used to analyze the cryptocurrency market. The project wil
 2)	Make transactions from wallet.
 3)	Use AI to determine transactions.
 4)	Profit!
+
+## Research Questions: Due 6/23/21
+- How do we interact with stock Data?
+- How do we make transactions
+- What kinda AI should we use
