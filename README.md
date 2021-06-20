@@ -1,2 +1,2 @@
 # CryptoBot3000
-this is a bot to trade?
+this is a bot to trade Crypto?
